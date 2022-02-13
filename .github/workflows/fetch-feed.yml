@@ -1,4 +1,4 @@
-name: Update this repo's README
+name: fetch-feed
 
 on:
   schedule:
