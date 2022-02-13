@@ -45,7 +45,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@8344eca6-9a8e-4039-b000-ba472ecc513b&compact=True"/>
 </a>
  <br>
-[![wakatime](https://wakatime.com/badge/user/8344eca6-9a8e-4039-b000-ba472ecc513b.svg)](https://wakatime.com/@8344eca6-9a8e-4039-b000-ba472ecc513b)
+ <br>
+<a href="https://wakatime.com/@8344eca6-9a8e-4039-b000-ba472ecc513b"><img src="https://wakatime.com/badge/user/8344eca6-9a8e-4039-b000-ba472ecc513b.svg" alt="Total time coded since Feb 13 2022" /></a>
 
 
 
