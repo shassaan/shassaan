@@ -3,7 +3,7 @@ name: fetch-feed
 on:
   schedule:
     # Once a day at 8 AM
-    - cron: 0 8 * * *
+    - cron: 28 12 * * *
 
 jobs:
   update:
