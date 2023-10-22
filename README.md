@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on Open source libraries 
 
-- 💬 Talk to me about C#, JavaScript, Open Source 
+- 💬 Talk to me about python, Data Eng., Open Source 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/shassaan?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
@@ -40,13 +40,6 @@
 <a href = 'https://www.github.com/shassaan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
-</a>
- <br>
- <br>
-<a href="https://wakatime.com/@8344eca6-9a8e-4039-b000-ba472ecc513b"><img src="https://wakatime.com/badge/user/8344eca6-9a8e-4039-b000-ba472ecc513b.svg" alt="Total time coded since Feb 13 2022" /></a>
 
 
 
