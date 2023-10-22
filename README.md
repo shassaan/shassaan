@@ -46,11 +46,11 @@
 <h2> My Blog Posts </h2>
 
 <!--START_SECTION:feed-->
+* [Trigger Multiple Lambda Functions from the same S3 Bucket with Object Key](https:&#x2F;&#x2F;shassaan.medium.com&#x2F;trigger-multiple-lambda-functions-from-the-same-s3-bucket-with-object-key-da2081efb9cc?source&#x3D;rss-77e0c79bf559------2)
+* [Building Backend OAuth 2.0 App for JWT Assertions](https:&#x2F;&#x2F;medium.com&#x2F;onebyte-llc&#x2F;building-backend-oauth-2-0-app-for-jwt-assertions-acf1af784920?source&#x3D;rss-77e0c79bf559------2)
+* [Executing Long-Running Jobs with AWS Lambda Functions](https:&#x2F;&#x2F;medium.com&#x2F;onebyte-llc&#x2F;executing-long-running-jobs-with-aws-lambda-functions-60ac0bcd33d9?source&#x3D;rss-77e0c79bf559------2)
 * [Sleep function in JavaScript](https:&#x2F;&#x2F;shassaan.medium.com&#x2F;sleep-function-in-javascript-855b0898fb6f?source&#x3D;rss-77e0c79bf559------2)
 * [Finding an Unknown value at a certain point in a 2D plane using Lagrange Interpolation.](https:&#x2F;&#x2F;levelup.gitconnected.com&#x2F;finding-an-unknown-value-at-a-certain-point-in-a-2d-plane-using-lagrange-interpolation-3bba69479bc?source&#x3D;rss-77e0c79bf559------2)
-* [Authentication and authorization using Cognito in asp.NET](https:&#x2F;&#x2F;medium.com&#x2F;onebyte-llc&#x2F;authentication-and-authorization-using-cognito-in-asp-net-7bdedf176f8c?source&#x3D;rss-77e0c79bf559------2)
-* [Guide to become a full-stack engineer](https:&#x2F;&#x2F;medium.com&#x2F;onebyte-llc&#x2F;guide-to-become-a-full-stack-engineer-73b32c0c3f0a?source&#x3D;rss-77e0c79bf559------2)
-* [Implementing wildcard string search in LINQ C#.](https:&#x2F;&#x2F;shassaan.medium.com&#x2F;implementing-wildcard-string-search-in-linq-c-809af3193ef1?source&#x3D;rss-77e0c79bf559------2)
 <!--END_SECTION:feed-->
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
